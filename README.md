@@ -17,7 +17,7 @@ The Penn World Table dataset provides detailed income and economic indicators fo
 
 ---
 
-### Codebook
+## Big Mac Data Key
 
 This codebook largely applies to all three files. The exception is the variables suffixed `_raw` or `_adjusted`—these appear (with suffixes) in the "full" file but without suffixes in the respective ("raw" or "adjusted") files.
 
